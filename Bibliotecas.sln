@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDManagement", "BDManagement\BDManagement.csproj", "{B51E04BC-BD6C-4E44-8CD6-B6E5438C8CEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conection", "Conection\Conection.csproj", "{4A0C2088-A036-45C6-8EEF-92A891D3DC78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls", "CustomControls\CustomControls.csproj", "{7893826A-F067-4204-9624-4EE854F85CFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls.Fonte", "CustomControls.Fonte\CustomControls.Fonte.csproj", "{44D33679-A1F9-42A9-8CDB-2712A634A44D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomControls.Security", "CustomControls.Security\CustomControls.Security.csproj", "{F84D935A-AB27-4A10-B810-1E729A79DDBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesCustomControls", "TestesCustomControls\TestesCustomControls.csproj", "{AD0EB583-AC85-4C70-B7A0-0F050605ABBF}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51E04BC-BD6C-4E44-8CD6-B6E5438C8CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51E04BC-BD6C-4E44-8CD6-B6E5438C8CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51E04BC-BD6C-4E44-8CD6-B6E5438C8CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51E04BC-BD6C-4E44-8CD6-B6E5438C8CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A0C2088-A036-45C6-8EEF-92A891D3DC78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A0C2088-A036-45C6-8EEF-92A891D3DC78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A0C2088-A036-45C6-8EEF-92A891D3DC78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A0C2088-A036-45C6-8EEF-92A891D3DC78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7893826A-F067-4204-9624-4EE854F85CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7893826A-F067-4204-9624-4EE854F85CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7893826A-F067-4204-9624-4EE854F85CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7893826A-F067-4204-9624-4EE854F85CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D33679-A1F9-42A9-8CDB-2712A634A44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D33679-A1F9-42A9-8CDB-2712A634A44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D33679-A1F9-42A9-8CDB-2712A634A44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D33679-A1F9-42A9-8CDB-2712A634A44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F84D935A-AB27-4A10-B810-1E729A79DDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F84D935A-AB27-4A10-B810-1E729A79DDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F84D935A-AB27-4A10-B810-1E729A79DDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F84D935A-AB27-4A10-B810-1E729A79DDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD0EB583-AC85-4C70-B7A0-0F050605ABBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0EB583-AC85-4C70-B7A0-0F050605ABBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0EB583-AC85-4C70-B7A0-0F050605ABBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0EB583-AC85-4C70-B7A0-0F050605ABBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
