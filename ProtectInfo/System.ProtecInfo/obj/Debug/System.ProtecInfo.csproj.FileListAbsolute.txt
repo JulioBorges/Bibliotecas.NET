@@ -1,0 +1,13 @@
+C:\Users\nova\Documents\Visual Studio 2010\Projects\Project1\System.ProtecInfo\bin\Debug\System.ProtecInfo.dll
+C:\Users\nova\Documents\Visual Studio 2010\Projects\Project1\System.ProtecInfo\bin\Debug\System.ProtecInfo.pdb
+C:\Users\nova\Documents\Visual Studio 2010\Projects\Project1\System.ProtecInfo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nova\Documents\Visual Studio 2010\Projects\Project1\System.ProtecInfo\obj\Debug\System.ProtecInfo.dll
+C:\Users\nova\Documents\Visual Studio 2010\Projects\Project1\System.ProtecInfo\obj\Debug\System.ProtecInfo.pdb
+H:\Arquivos Dsv\Bibliotecas .NET\ProtectInfo\System.ProtecInfo\bin\Debug\System.ProtecInfo.dll
+H:\Arquivos Dsv\Bibliotecas .NET\ProtectInfo\System.ProtecInfo\bin\Debug\System.ProtecInfo.pdb
+H:\Arquivos Dsv\Bibliotecas .NET\ProtectInfo\System.ProtecInfo\obj\Debug\ResolveAssemblyReference.cache
+H:\Arquivos Dsv\Bibliotecas .NET\ProtectInfo\System.ProtecInfo\obj\Debug\System.ProtecInfo.FrmValidacao.resources
+H:\Arquivos Dsv\Bibliotecas .NET\ProtectInfo\System.ProtecInfo\obj\Debug\GenerateResource.read.1.tlog
+H:\Arquivos Dsv\Bibliotecas .NET\ProtectInfo\System.ProtecInfo\obj\Debug\GenerateResource.write.1.tlog
+H:\Arquivos Dsv\Bibliotecas .NET\ProtectInfo\System.ProtecInfo\obj\Debug\System.ProtecInfo.dll
+H:\Arquivos Dsv\Bibliotecas .NET\ProtectInfo\System.ProtecInfo\obj\Debug\System.ProtecInfo.pdb
